@@ -29,6 +29,10 @@
 - Enhancing my skills in deep learning and natural language processing (NLP)
 - Advancing my SQL skill
 
+### 📝 My Articles
+
+I write articles about data [https://medium.com/@samaa.ardy](https://medium.com/@samaa.ardy)
+
 ### 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/samaardi/)
