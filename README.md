@@ -8,7 +8,7 @@
 
 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/samaardi/)
 
-⚡ I have a deep passion for watching movies. let's talk about movies 🎥 🍿 
+⚡ Passionate about movies 🎥 . let's talk about them 🍿 
 
 ---
 
