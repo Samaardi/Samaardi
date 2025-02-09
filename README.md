@@ -4,8 +4,6 @@
 
 🌱 I'm currently enhancing my skills in data science, data analytics, machine learning, cloud computing, and I'm eager to apply them in a professional environment.
 
-💞️ I’m seeking a data analyst/data scientist position where I can contribute to creating data-driven impact in a dynamic and growth-oriented company.
-
 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/samaardi/)
 
 ⚡ Passionate about movies 🎥 . let's talk about them 🍿 
