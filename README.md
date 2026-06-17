@@ -2,8 +2,6 @@
 
 👀 I’m passionate about leveraging data to uncover insights that support well-informed decision-making.
 
-🌱 I'm currently enhancing my skills in data science, data analytics, machine learning, cloud computing, and I'm eager to apply them in a professional environment.
-
 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/samaardi/)
 
 ⚡ Passionate about movies 🎥 . let's talk about them 🍿 
@@ -22,13 +20,6 @@
 ![Microsoft Packages](https://img.shields.io/badge/Microsoft_Packages-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-3776AB?style=for-the-badge&logo=data&logoColor=white)
 
-### 📊 Current Learning Goals
-
-- Enhancing my skills in deep learning and natural language processing (NLP)
-
-### 📝 My Articles
-
-I write articles about data [https://medium.com/@samaa.ardy](https://medium.com/@samaa.ardy)
 
 ### 🌐 Connect with Me
 
