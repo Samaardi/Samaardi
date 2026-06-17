@@ -2,8 +2,6 @@
 
 👀 I’m passionate about leveraging data to uncover insights that support well-informed decision-making.
 
-📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/samaardi/)
-
 ⚡ Passionate about movies 🎥 . let's talk about them 🍿 
 
 ---
